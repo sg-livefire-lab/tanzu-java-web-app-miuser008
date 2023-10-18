@@ -13,6 +13,6 @@ spec:
       autoscaling.knative.dev/minScale: "1"
   source:
     git:
-      url: <https URL for your generated project's Git repository>
+      url: https://github.com/sg-livefire-lab/tanzu-java-web-app-miuser008
       ref:
         branch: main
